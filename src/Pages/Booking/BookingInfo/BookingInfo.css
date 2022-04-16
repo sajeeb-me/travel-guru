@@ -1,0 +1,12 @@
+.booking-form input {
+    display: block;
+    width: 350px;
+    padding: 8px 10px;
+    margin: 10px 0;
+    outline: none;
+    border-radius: 5px;
+}
+
+.booking-form input:not([type=submit]) {
+    background-color: #F2F2F2;
+}
